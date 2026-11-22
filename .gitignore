@@ -25,3 +25,5 @@
 # Настройки операционных систем
 .DS_Store
 Thumbs.db
+
+/[Uu]ser[Ss]ettings/
